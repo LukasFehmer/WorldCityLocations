@@ -21,6 +21,12 @@ The table has 5 fields, `id`, `country`, `city`, `latitude`, `longitude`, `altit
 Usage
 ---------
 
+The sql file with the `_sqlite` suffix goes conform with the syntax for sqlite databases.
+
+
+Usage
+---------
+
 The sql file contains the schema to reproduce the location table in your designated database (assuming you are using mysql database engine. If you aren’t, you can easily convert the sql schema
 
 ### Getting all countries of the world (170 countries)
